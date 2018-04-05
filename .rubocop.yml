@@ -6,7 +6,6 @@ inherit_from:
   - .rubocop_enabled.yml
   - .rubocop_disabled.yml
 
-# Common configuration.
 AllCops:
   # Include gemspec and Rakefile
   Include:
